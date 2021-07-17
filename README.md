@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rojaAchary
 - 👀 I’m interested in software engineering and development
-- 🌱 I’m currently learning  ai
+- 🌱 I’m currently learning AI, Data Science
 - 💞️ I’m looking to collaborate on interesting projects
 
 
