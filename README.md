@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI, Data Science
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: Curious Neuron.
-- 📬 ReachMe- achary.roja@gmail for Opportunities
+- 📬 ReachMe- [achary.roja@gmail]  for Opportunities
 
 <img src="https://github-readme-stats.vercel.app/api?username=rojaAchary&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
