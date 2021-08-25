@@ -2,8 +2,7 @@
 
 
 - 👋 Hi, I’m @rojaAchary, currently learning at [Applied Ai](https://www.appliedaicourse.com/)
-- 👀 I’m interested in software engineering and development
-- 🌱 I’m currently learning AI, Data Science
+- 👀 I’m interested in AI, Data Science with software engineering. 
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: Curious Neuron.
 - 📬 ReachMe- [achary.roja@gmail]  for Opportunities
