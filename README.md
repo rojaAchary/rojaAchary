@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rojaAchary&label=Views&color=blue&style=plastic" alt="rojaAchary" /> </p>
+
+
 - 👋 Hi, I’m @rojaAchary, currently learning at [Applied Ai](https://www.appliedaicourse.com/)
 - 👀 I’m interested in software engineering and development
 - 🌱 I’m currently learning AI, Data Science
